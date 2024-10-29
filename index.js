@@ -312,4 +312,4 @@ client.on('messageCreate', async message => {
 });
 
 
-client.login("MTMwMDcyNzc2Njg2NTQxMjE0Nw.Gn0rJo.qTHbZvSfPPZwDx41FwlZE_BSqDIhPG1eTiuuDc");
+client.login("MTMwMDcyNzc2Njg2NTQxMjE0Nw.GbmJyy.MVeRWIJjjUL0iUNbukB2sOIWMIfOk-LK9eFPu0");
